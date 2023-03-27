@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/visualstudio,unity,rider,csharp
-# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudio,unity,rider,csharp
+# Created by https://www.toptal.com/developers/gitignore/api/rider,unity,visualstudio,csharp
+# Edit at https://www.toptal.com/developers/gitignore?templates=rider,unity,visualstudio,csharp
 
 ### Csharp ###
 ## Ignore Visual Studio temporary files, build results, and
@@ -722,4 +722,4 @@ sysinfo.txt
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 
-# End of https://www.toptal.com/developers/gitignore/api/visualstudio,unity,rider,csharp`
+# End of https://www.toptal.com/developers/gitignore/api/rider,unity,visualstudio,csharp
