@@ -10,7 +10,7 @@ namespace Player.State_Machines
             start_timing();
         }
 
-        private TimerUtil state_timer;
+        protected TimerUtil state_timer;
         
         public virtual bool verify_state()
         {

@@ -20,7 +20,7 @@ public class PlayerStateIdle : PlayerState
         bool go_to_punch_state = Input.GetButtonDown("Punch");
         if (go_to_punch_state)
         {
-            return new PlayerStatePunch();
+            return new PlayerStateLowPunch();
         }
         return new PlayerStateIdle();
     }

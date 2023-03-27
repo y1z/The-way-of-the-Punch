@@ -47,9 +47,14 @@ public class PlayerController : MonoBehaviour
  ///    print("acction = " + _current_action.ToString());
  ///    _current_action = PlayerActions.NONE;
         _currentState.execute_state();
-        if ( _currentState.verify_state())
+        if ( !_currentState.verify_state())
         {
+            var new_state = _
             
+        }
+        else
+        {
+            Player
         }
  
  
